@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Comercializadora Norte</string>
+    <string name="titulo_comercializadora">Comercializadora</string>
+    <string name="titulo_del_norte">del Norte</string>
+    <string name="subtitulo_ledger">THE ARCHITECTURAL LEDGER</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="olvide_contrasena">Olvidé mi contraseña</string>
+    <string name="boton_iniciar_sesion">INICIAR SESIÓN</string>
+
+    <string name="titulo_recuperar_acceso">Recuperar Acceso</string>
+    <string name="descripcion_recuperar_acceso">Ingresa tu correo institucional para recuperar el acceso a la plataforma de gestión de suministros de acero, vigas IPR, cemento y ferretería industrial.</string>
+    <string name="label_correo_electronico">CORREO ELECTRÓNICO</string>
+    <string name="hint_correo">ejemplo@ejemplo.com</string>
+    <string name="boton_enviar_instrucciones">ENVIAR INSTRUCCIONES</string>
+    <string name="fecha_de_regresar">Fecha de regresar</string>
+
+    <string name="titulo_nueva_contrasena">Nueva Contraseña</string>
+    <string name="descripcion_nueva_contrasena">Crea una contraseña segura para tu cuenta de suministros industriales</string>
+    <string name="label_nueva_contrasena">NUEVA CONTRASEÑA</string>
+    <string name="label_confirmar_contrasena">CONFIRMAR CONTRASEÑA</string>
+    <string name="hint_password_dots">••••••••</string>
+    <string name="label_longitud">LONGITUD</string>
+    <string name="desc_longitud">Min. 8 caracteres</string>
+    <string name="label_complejidad">COMPLEJIDAD</string>
+    <string name="desc_complejidad">Símbolos y Números</string>
+    <string name="boton_actualizar_contrasena">ACTUALIZAR CONTRASEÑA</string>
+</resources>
