@@ -10,7 +10,7 @@
 
     <string name="titulo_recuperar_acceso">Recuperar Acceso</string>
     <string name="descripcion_recuperar_acceso">Ingresa tu correo institucional para recuperar el acceso a la plataforma de gestión de suministros de acero, vigas IPR, cemento y ferretería industrial.</string>
-    <string name="label_correo_electronico">CORREO ELECTRÓNICO</string>
+    <string name="label_correo_electronico">Correo electrónico</string>
     <string name="hint_correo">ejemplo@ejemplo.com</string>
     <string name="boton_enviar_instrucciones">ENVIAR INSTRUCCIONES</string>
     <string name="fecha_de_regresar">Fecha de regresar</string>
@@ -25,4 +25,22 @@
     <string name="label_complejidad">COMPLEJIDAD</string>
     <string name="desc_complejidad">Símbolos y Números</string>
     <string name="boton_actualizar_contrasena">ACTUALIZAR CONTRASEÑA</string>
+
+    <string name="titulo_nuevo_cliente">Nuevo Cliente</string>
+    <string name="desc_nuevo_cliente">Complete la información técnica y fiscal para integrar al nuevo cliente a la red de distribución.</string>
+    <string name="seccion_datos_empresa">Datos de la Empresa</string>
+    <string name="hint_nombre_razon_social">Nombre o Razón Social</string>
+    <string name="hint_rfc">RFC</string>
+    <string name="seccion_ubicacion_obra">Ubicación de Obra / Fiscal</string>
+    <string name="hint_calle">Calle</string>
+    <string name="hint_numero">Número</string>
+    <string name="hint_cp">Código Postal</string>
+    <string name="hint_colonia">Colonia</string>
+    <string name="hint_ciudad">Ciudad</string>
+    <string name="hint_estado">Estado</string>
+    <string name="seccion_contacto_comercial">Contacto Comercial</string>
+    <string name="hint_nombre_contacto">Nombre (Residente o Compras)</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="boton_registrar_cliente">REGISTRAR CLIENTE</string>
+    <string name="boton_cancelar">CANCELAR</string>
 </resources>
