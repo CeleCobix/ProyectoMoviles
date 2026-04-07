@@ -10,4 +10,27 @@
     <style name="CustomIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
         <item name="android:color">@color/azul_oscuro</item>
     </style>
+
+    <style name="BadgeBase">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BadgeActivo" parent="BadgeBase">
+        <item name="android:background">@drawable/bg_badge_verde</item>
+        <item name="android:text">@string/estado_activo</item>
+        <item name="android:textColor">@color/verde_badge_text</item>
+        <item name="app:drawableStartCompat">@drawable/ic_dot</item>
+    </style>
+
+    <style name="BadgeInactivo" parent="BadgeBase">
+        <item name="android:background">@drawable/bg_badge_inactivo</item>
+        <item name="android:text">@string/estado_inactivo</item>
+        <item name="android:textColor">@color/gris_badge_text</item>
+        <item name="app:drawableStartCompat">@drawable/ic_dot_inactivo</item>
+    </style>
 </resources>

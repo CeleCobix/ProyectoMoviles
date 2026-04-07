@@ -47,4 +47,14 @@
     <string name="pedidos_barra_navegacion">Pedidos</string>
     <string name="clientes_barra_navegacion">Clientes</string>
     <string name="reportes_barra_navegacion">Reportes</string>
+
+    <string name="perfil_detallado">PERFIL DETALLADO</string>
+    <string name="estado_activo">ACTIVO</string>
+    <string name="estado_inactivo">INACTIVO</string>
+    <string name="rfc_empresa">RFC DE LA EMPRESA</string>
+    <string name="label_telefono">TELÉFONO</string>
+    <string name="correo_electronico">CORREO ELECTRÓNICO</string>
+    <string name="direccion_fiscal_completa">DIRECCIÓN FISCAL COMPLETA</string>
+    <string name="registro_en_sistema">REGISTRO EN SISTEMA</string>
+    <string name="flecha_regresar">Regresar</string>
 </resources>
