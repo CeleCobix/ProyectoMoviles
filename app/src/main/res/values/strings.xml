@@ -43,4 +43,8 @@
     <string name="hint_telefono">Teléfono</string>
     <string name="boton_registrar_cliente">REGISTRAR CLIENTE</string>
     <string name="boton_cancelar">CANCELAR</string>
+    <string name="home_barra_navegacion">Home</string>
+    <string name="pedidos_barra_navegacion">Pedidos</string>
+    <string name="clientes_barra_navegacion">Clientes</string>
+    <string name="reportes_barra_navegacion">Reportes</string>
 </resources>
