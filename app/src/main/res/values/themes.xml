@@ -33,4 +33,8 @@
         <item name="android:textColor">@color/gris_badge_text</item>
         <item name="app:drawableStartCompat">@drawable/ic_dot_inactivo</item>
     </style>
+
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
 </resources>

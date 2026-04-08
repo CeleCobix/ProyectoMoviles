@@ -15,4 +15,10 @@
     <color name="azul_fondo_direccion">#001D3D</color>
     <color name="gris_etiqueta">#9E9E9E</color>
     <color name="negro_texto">#001D3D</color>
+    
+    <color name="gris_fondo_reportes">#F9FAFB</color>
+    <color name="azul_primario">#0B1B32</color>
+    <color name="verde_detalle">#00796B</color>
+    <color name="gris_ingresos_bg">#F2F3F5</color>
+    <color name="gris_claro_texto">#6B7280</color>
 </resources>

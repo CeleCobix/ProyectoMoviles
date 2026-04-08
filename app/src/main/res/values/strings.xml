@@ -57,4 +57,15 @@
     <string name="direccion_fiscal_completa">DIRECCIÓN FISCAL COMPLETA</string>
     <string name="registro_en_sistema">REGISTRO EN SISTEMA</string>
     <string name="flecha_regresar">Regresar</string>
+
+    <!-- Reportes Strings -->
+    <string name="panel_de_reportes">Panel de Reportes</string>
+    <string name="ingresos_totales">INGRESOS TOTALES</string>
+    <string name="monto_ingresos">$2,484,920</string>
+    <string name="ranking_clientes">Ranking de Clientes</string>
+    <string name="ranking_desc">Identifica a los socios comerciales con mayor volumen de compra y frecuencia de facturación histórica.</string>
+    <string name="ver_detalle">Ver detalle ></string>
+    <string name="top_10_productos">Top 10 Productos</string>
+    <string name="top_10_desc">Consulta los artículos estrella que definen la tendencia de ventas actual en el mercado norte.</string>
+    <string name="consultar_lista">Consultar lista ></string>
 </resources>
