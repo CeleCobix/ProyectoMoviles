@@ -86,4 +86,13 @@
     <string name="monto_cliente_4">$592,100</string>
     <string name="cliente_5">Comercial de Occidente</string>
     <string name="monto_cliente_5">$445,000</string>
+    <string name="unidades_vendidas">UNIDADES VENDIDAS</string>
+    <string name="bestseller_1">BESTSELLER #1</string>
+    <string name="_14_2k">14.2k</string>
+    <string name="regresar">Regresar</string>
+    <string name="productos_nestrella">Productos\nEstrella</string>
+    <string name="ventas_totales">VENTAS TOTALES</string>
+    <string name="unidades">UNIDADES</string>
+    <string name="categor_a">CATEGORÍA</string>
+    <string name="nombre_del_producto">Nombre del Producto</string>
 </resources>

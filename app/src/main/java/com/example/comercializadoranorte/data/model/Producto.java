@@ -4,15 +4,17 @@ public class Producto {
     private String id;
     private String nombre;
     private String descripcion;
+    private String categoria;
     private double precio;
     private int stock;
 
     public Producto() {}
 
-    public Producto(String id, String nombre, String descripcion, double precio, int stock) {
+    public Producto(String id, String nombre, String descripcion, String categoria, double precio, int stock) {
         this.id = id;
         this.nombre = nombre;
         this.descripcion = descripcion;
+        this.categoria = categoria;
         this.precio = precio;
         this.stock = stock;
     }
@@ -25,6 +27,9 @@ public class Producto {
 
     public String getDescripcion() { return descripcion; }
     public void setDescripcion(String descripcion) { this.descripcion = descripcion; }
+
+    public String getCategoria() { return categoria; }
+    public void setCategoria(String categoria) { this.categoria = categoria; }
 
     public double getPrecio() { return precio; }
     public void setPrecio(double precio) { this.precio = precio; }

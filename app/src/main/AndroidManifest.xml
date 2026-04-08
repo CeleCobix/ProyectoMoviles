@@ -37,6 +37,11 @@
             android:label="@string/ranking_clientes" />
 
         <activity
+            android:name=".ui.reportes.TopProductosActivity"
+            android:exported="false"
+            android:label="@string/top_10_productos" />
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
         </activity>

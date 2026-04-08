@@ -26,6 +26,15 @@ public class ReportesFragment extends Fragment {
             }
         });
 
+        MaterialCardView cardProductos = view.findViewById(R.id.card_productos);
+        cardProductos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), TopProductosActivity.class);
+                startActivity(intent);
+            }
+        });
+
         return view;
     }
 }
