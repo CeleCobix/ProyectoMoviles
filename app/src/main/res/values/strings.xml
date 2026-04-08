@@ -68,4 +68,22 @@
     <string name="top_10_productos">Top 10 Productos</string>
     <string name="top_10_desc">Consulta los artículos estrella que definen la tendencia de ventas actual en el mercado norte.</string>
     <string name="consultar_lista">Consultar lista ></string>
+
+    <!-- Ranking Clientes -->
+    <string name="volumen_total">VOLUMEN TOTAL</string>
+    <string name="monto_volumen_total">$4.2M</string>
+    <string name="porcentaje_volumen">+12%</string>
+    <string name="periodo_label">PERIODO</string>
+    <string name="periodo_valor">Q3 2023</string>
+    <string name="valor_en_compras">VALOR EN COMPRAS</string>
+    <string name="cliente_1">CORPORATIVO LOGÍSTICA GLOBAL</string>
+    <string name="monto_cliente_1">$842,500</string>
+    <string name="cliente_2">Distribuidora del Valle S.A.</string>
+    <string name="monto_cliente_2">$712,000</string>
+    <string name="cliente_3">Industrias Metálicas del Norte</string>
+    <string name="monto_cliente_3">$654,300</string>
+    <string name="cliente_4">Sistemas de Riego Avanzado</string>
+    <string name="monto_cliente_4">$592,100</string>
+    <string name="cliente_5">Comercial de Occidente</string>
+    <string name="monto_cliente_5">$445,000</string>
 </resources>

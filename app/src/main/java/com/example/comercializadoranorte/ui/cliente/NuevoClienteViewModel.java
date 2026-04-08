@@ -15,13 +15,13 @@ public class NuevoClienteViewModel extends ViewModel {
     public LiveData<Boolean> getClienteGuardado() { return clienteGuardado; }
     public LiveData<String> getErrorMensaje() { return errorMensaje; }
 
-    public void guardarCliente(String nombre, String telefono, String correo, String direccion) {
+    public void guardarCliente(String nombre, String rfc, String telefono, String correo, String direccion, String fecharegistro, boolean activo) {
         if (nombre.isEmpty() || telefono.isEmpty()) {
             errorMensaje.setValue("Nombre y teléfono son obligatorios");
             return;
         }
         String id = String.valueOf(System.currentTimeMillis());
-        repository.agregar(new Cliente(id, nombre, telefono, correo, direccion));
+        repository.agregar(new Cliente(id, nombre, rfc, telefono, correo, direccion, fecharegistro, activo));
         clienteGuardado.setValue(true);
     }
 }

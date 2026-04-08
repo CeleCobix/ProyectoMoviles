@@ -32,6 +32,11 @@
             android:label="@string/titulo_nueva_contrasena" />
 
         <activity
+            android:name=".ui.reportes.RankingClientesActivity"
+            android:exported="false"
+            android:label="@string/ranking_clientes" />
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
         </activity>

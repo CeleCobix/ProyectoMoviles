@@ -24,14 +24,14 @@
         <item name="android:background">@drawable/bg_badge_verde</item>
         <item name="android:text">@string/estado_activo</item>
         <item name="android:textColor">@color/verde_badge_text</item>
-        <item name="app:drawableStartCompat">@drawable/ic_dot</item>
+        <item name="drawableStartCompat">@drawable/ic_dot</item>
     </style>
 
     <style name="BadgeInactivo" parent="BadgeBase">
         <item name="android:background">@drawable/bg_badge_inactivo</item>
         <item name="android:text">@string/estado_inactivo</item>
         <item name="android:textColor">@color/gris_badge_text</item>
-        <item name="app:drawableStartCompat">@drawable/ic_dot_inactivo</item>
+        <item name="drawableStartCompat">@drawable/ic_dot_inactivo</item>
     </style>
 
     <style name="CircleImage">
